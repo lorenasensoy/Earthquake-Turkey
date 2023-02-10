@@ -1,3 +1,13 @@
+
+:root {
+  --brown: #6B4B3E;
+  --heading-size: em;
+}
+ 
+h2 {
+  color:var(--brown);
+}
+
 body {
   padding: 0px;
   margin: 0px;
